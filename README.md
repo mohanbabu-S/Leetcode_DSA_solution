@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0567-permutation-in-string) |
 ## Binary Search
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -188,9 +190,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
