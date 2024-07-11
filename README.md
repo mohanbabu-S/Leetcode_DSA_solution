@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0347-top-k-frequent-elements) |
 ## Union Find
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0068-text-justification) |
+| [0242-valid-anagram](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0242-valid-anagram) |
 | [1714-rearrange-spaces-between-words](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1714-rearrange-spaces-between-words) |
 ## Divide and Conquer
 |  |
