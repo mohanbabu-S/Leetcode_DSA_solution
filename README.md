@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Math
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1585-the-kth-factor-of-n) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
