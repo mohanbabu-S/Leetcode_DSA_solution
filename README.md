@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0907-koko-eating-bananas) |
 | [1293-three-consecutive-odds](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1293-three-consecutive-odds) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1023-time-based-key-value-store) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Sorting
 |  |
 | ------- |
@@ -203,4 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
