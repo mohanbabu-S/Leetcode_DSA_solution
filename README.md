@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0907-koko-eating-bananas) |
 | [1293-three-consecutive-odds](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1293-three-consecutive-odds) |
+| [1706-min-cost-to-connect-all-points](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1706-min-cost-to-connect-all-points) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0684-redundant-connection) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1706-min-cost-to-connect-all-points](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1706-min-cost-to-connect-all-points) |
 ## Graph
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0684-redundant-connection) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1706-min-cost-to-connect-all-points](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1706-min-cost-to-connect-all-points) |
 ## Math
 |  |
 | ------- |
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0210-course-schedule-ii) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
