@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0792-binary-search](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0794-swim-in-rising-water) |
+| [0876-hand-of-straights](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0907-koko-eating-bananas) |
 | [1293-three-consecutive-odds](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1293-three-consecutive-odds) |
 | [1706-min-cost-to-connect-all-points](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1706-min-cost-to-connect-all-points) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0567-permutation-in-string) |
+| [0876-hand-of-straights](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1023-time-based-key-value-store) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Sorting
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0876-hand-of-straights](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0876-hand-of-straights) |
 ## Union Find
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0134-gas-station) |
+| [0876-hand-of-straights](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0876-hand-of-straights) |
 ## Dynamic Programming
 |  |
 | ------- |
