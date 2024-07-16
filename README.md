@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0076-minimum-window-substring) |
