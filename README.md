@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0678-valid-parenthesis-string) |
 | [1023-time-based-key-value-store](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1023-time-based-key-value-store) |
 | [1714-rearrange-spaces-between-words](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1714-rearrange-spaces-between-words) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0134-gas-station) |
+| [0678-valid-parenthesis-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0876-hand-of-straights) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Dynamic Programming
@@ -214,12 +216,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0143-reorder-list) |
+| [0678-valid-parenthesis-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
