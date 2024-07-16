@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0006-zigzag-conversion) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0076-minimum-window-substring) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0053-maximum-subarray) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0143-reorder-list) |
 | [0678-valid-parenthesis-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0678-valid-parenthesis-string) |
