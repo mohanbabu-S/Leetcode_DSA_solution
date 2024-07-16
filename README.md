@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0792-binary-search](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0794-swim-in-rising-water) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0416-partition-equal-subset-sum](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Stack
