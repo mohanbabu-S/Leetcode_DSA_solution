@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0907-koko-eating-bananas) |
 | [1293-three-consecutive-odds](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1293-three-consecutive-odds) |
 | [1706-min-cost-to-connect-all-points](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1706-min-cost-to-connect-all-points) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0134-gas-station) |
 | [0876-hand-of-straights](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0876-hand-of-straights) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Dynamic Programming
 |  |
 | ------- |
