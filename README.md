@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0047-permutations-ii) |
+| [0052-n-queens-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0052-n-queens-ii) |
 ## Design
 |  |
 | ------- |
