@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0043-multiply-strings) |
 | [1585-the-kth-factor-of-n](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1585-the-kth-factor-of-n) |
 ## Number Theory
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0076-minimum-window-substring) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0068-text-justification) |
 ## Sliding Window
 |  |
