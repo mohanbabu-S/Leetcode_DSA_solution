@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1706-min-cost-to-connect-all-points) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1023-time-based-key-value-store) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-hand-of-straights](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0876-hand-of-straights) |
+| [2502-sort-the-people](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2502-sort-the-people) |
 ## Union Find
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1023-time-based-key-value-store) |
 | [1714-rearrange-spaces-between-words](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1714-rearrange-spaces-between-words) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
 |  |
 | ------- |
