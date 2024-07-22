@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0049-group-anagrams) |
@@ -322,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0803-cheapest-flights-within-k-stops) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
