@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0087-scramble-string) |
 | [0127-word-ladder](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0055-jump-game) |
+| [0087-scramble-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0087-scramble-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0678-valid-parenthesis-string) |
