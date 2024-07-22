@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0050-powx-n) |
 | [1585-the-kth-factor-of-n](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1585-the-kth-factor-of-n) |
 ## Number Theory
 |  |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0206-reverse-linked-list) |
 ## Tree
