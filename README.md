@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0347-top-k-frequent-elements) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0127-word-ladder) |
+| [0208-implement-trie-prefix-tree](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0567-permutation-in-string) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0208-implement-trie-prefix-tree) |
 | [1023-time-based-key-value-store](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1023-time-based-key-value-store) |
 | [2139-detect-squares](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2139-detect-squares) |
 ## Linked List
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0208-implement-trie-prefix-tree) |
 ## String Matching
 |  |
 | ------- |
