@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0062-unique-paths) |
 | [1585-the-kth-factor-of-n](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1585-the-kth-factor-of-n) |
 ## Number Theory
 |  |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0062-unique-paths) |
 | [0087-scramble-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0087-scramble-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0416-partition-equal-subset-sum) |
@@ -390,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0029-divide-two-integers) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
