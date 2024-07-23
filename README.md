@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2139-detect-squares](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2139-detect-squares) |
+| [2232-adding-spaces-to-a-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2502-sort-the-people) |
 ## Hash Table
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1023-time-based-key-value-store) |
 | [1714-rearrange-spaces-between-words](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1714-rearrange-spaces-between-words) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2232-adding-spaces-to-a-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2502-sort-the-people](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
 |  |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0768-partition-labels) |
 | [0959-3sum-with-multiplicity](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0959-3sum-with-multiplicity) |
+| [2232-adding-spaces-to-a-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2232-adding-spaces-to-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0415-add-strings) |
+| [2232-adding-spaces-to-a-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2232-adding-spaces-to-a-string) |
 ## Sliding Window
 |  |
 | ------- |
