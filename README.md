@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0435-non-overlapping-intervals) |
+| [0679-24-game](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0679-24-game) |
 | [0792-binary-search](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0876-hand-of-straights) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0268-missing-number) |
 | [0650-2-keys-keyboard](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0650-2-keys-keyboard) |
+| [0679-24-game](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0679-24-game) |
 | [1585-the-kth-factor-of-n](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1585-the-kth-factor-of-n) |
 ## Number Theory
 |  |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0052-n-queens-ii) |
 | [0212-word-search-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0212-word-search-ii) |
+| [0679-24-game](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0679-24-game) |
 ## Design
 |  |
 | ------- |
