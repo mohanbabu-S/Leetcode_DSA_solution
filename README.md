@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0088-merge-sorted-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0066-plus-one) |
 | [1585-the-kth-factor-of-n](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1585-the-kth-factor-of-n) |
 ## Number Theory
 |  |
