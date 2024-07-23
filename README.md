@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0087-scramble-string) |
+| [0125-valid-palindrome](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0350-intersection-of-two-arrays-ii) |
