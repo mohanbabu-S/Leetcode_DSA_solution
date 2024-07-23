@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0424-longest-repeating-character-replacement) |
+| [0432-all-oone-data-structure](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0768-partition-labels) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0432-all-oone-data-structure](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0432-all-oone-data-structure) |
 | [1023-time-based-key-value-store](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1023-time-based-key-value-store) |
 | [2139-detect-squares](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2139-detect-squares) |
 ## Linked List
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0206-reverse-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0432-all-oone-data-structure) |
 ## Recursion
 |  |
 | ------- |
@@ -524,4 +527,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
