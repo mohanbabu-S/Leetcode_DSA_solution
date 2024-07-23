@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0416-partition-equal-subset-sum) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-hand-of-straights](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0876-hand-of-straights) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0268-missing-number) |
 | [1585-the-kth-factor-of-n](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1585-the-kth-factor-of-n) |
 ## Number Theory
 |  |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0794-swim-in-rising-water) |
@@ -432,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0268-missing-number) |
 ## Combinatorics
 |  |
 | ------- |
