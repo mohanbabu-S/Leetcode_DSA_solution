@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2139-detect-squares](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2139-detect-squares) |
 | [2232-adding-spaces-to-a-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2232-adding-spaces-to-a-string) |
+| [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2502-sort-the-people) |
 ## Hash Table
