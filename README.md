@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1571-allocate-mailboxes](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1571-allocate-mailboxes) |
 | [1585-the-kth-factor-of-n](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1585-the-kth-factor-of-n) |
 | [2383-add-two-integers](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2383-add-two-integers) |
+| [2630-alternating-digit-sum](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2630-alternating-digit-sum) |
 ## Number Theory
 |  |
 | ------- |
