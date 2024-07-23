@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1706-min-cost-to-connect-all-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2139-detect-squares](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2139-detect-squares) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2502-sort-the-people) |
 ## Hash Table
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1023-time-based-key-value-store) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2139-detect-squares](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2139-detect-squares) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2502-sort-the-people) |
 ## Sorting
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0347-top-k-frequent-elements) |
+| [2139-detect-squares](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2139-detect-squares) |
 ## Quickselect
 |  |
 | ------- |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1023-time-based-key-value-store) |
+| [2139-detect-squares](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2139-detect-squares) |
 ## Linked List
 |  |
 | ------- |
