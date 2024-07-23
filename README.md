@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0435-non-overlapping-intervals) |
 | [0679-24-game](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0679-24-game) |
+| [0721-accounts-merge](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0721-accounts-merge) |
 | [0792-binary-search](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0876-hand-of-straights) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0876-hand-of-straights) |
 | [0959-3sum-with-multiplicity](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0959-3sum-with-multiplicity) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0435-non-overlapping-intervals) |
+| [0721-accounts-merge](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0876-hand-of-straights) |
 | [0959-3sum-with-multiplicity](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0959-3sum-with-multiplicity) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0794-swim-in-rising-water) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1706-min-cost-to-connect-all-points) |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1023-time-based-key-value-store) |
 | [1714-rearrange-spaces-between-words](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1714-rearrange-spaces-between-words) |
@@ -259,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -274,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0803-cheapest-flights-within-k-stops) |
