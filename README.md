@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0332-reconstruct-itinerary](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0794-swim-in-rising-water) |
@@ -442,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0062-unique-paths) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
