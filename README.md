@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0415-add-strings) |
 | [0650-2-keys-keyboard](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0650-2-keys-keyboard) |
 | [0679-24-game](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0679-24-game) |
 | [1585-the-kth-factor-of-n](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1585-the-kth-factor-of-n) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0242-valid-anagram) |
+| [0415-add-strings](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0678-valid-parenthesis-string) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0068-text-justification) |
+| [0415-add-strings](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |
