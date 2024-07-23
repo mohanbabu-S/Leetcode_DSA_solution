@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0138-copy-list-with-random-pointer) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0200-number-of-islands) |
