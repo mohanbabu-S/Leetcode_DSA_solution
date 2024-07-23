@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1293-three-consecutive-odds) |
 | [1706-min-cost-to-connect-all-points](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1706-min-cost-to-connect-all-points) |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2139-detect-squares](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2139-detect-squares) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0959-3sum-with-multiplicity) |
 | [1023-time-based-key-value-store](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1023-time-based-key-value-store) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1207-delete-nodes-and-return-forest) |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2139-detect-squares](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2139-detect-squares) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0876-hand-of-straights) |
 | [0959-3sum-with-multiplicity](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0959-3sum-with-multiplicity) |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2502-sort-the-people) |
 ## Union Find
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1023-time-based-key-value-store) |
+| [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1714-rearrange-spaces-between-words](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1714-rearrange-spaces-between-words) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2232-adding-spaces-to-a-string) |
