@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0567-permutation-in-string) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0794-swim-in-rising-water) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1023-time-based-key-value-store](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1023-time-based-key-value-store) |
 | [2139-detect-squares](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2139-detect-squares) |
 ## Linked List
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0211-design-add-and-search-words-data-structure) |
 ## String Matching
 |  |
 | ------- |
