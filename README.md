@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0650-2-keys-keyboard) |
 | [0679-24-game](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0679-24-game) |
 | [1585-the-kth-factor-of-n](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1585-the-kth-factor-of-n) |
+| [2383-add-two-integers](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2383-add-two-integers) |
 ## Number Theory
 |  |
 | ------- |
