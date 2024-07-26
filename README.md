@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0813-all-paths-from-source-to-target) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1706-min-cost-to-connect-all-points) |
 ## Math
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0930-all-possible-full-binary-trees](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0930-all-possible-full-binary-trees) |
 | [1362-airplane-seat-assignment-probability](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1362-airplane-seat-assignment-probability) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1571-allocate-mailboxes](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1571-allocate-mailboxes) |
 ## Stack
 |  |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Trie
 |  |
 | ------- |
