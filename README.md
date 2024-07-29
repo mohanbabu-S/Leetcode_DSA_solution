@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1036-rotting-oranges) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1293-three-consecutive-odds) |
+| [1511-count-number-of-teams](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1511-count-number-of-teams) |
 | [1571-allocate-mailboxes](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1571-allocate-mailboxes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1706-min-cost-to-connect-all-points) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-all-possible-full-binary-trees](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0930-all-possible-full-binary-trees) |
 | [1362-airplane-seat-assignment-probability](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1362-airplane-seat-assignment-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1511-count-number-of-teams) |
 | [1571-allocate-mailboxes](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1571-allocate-mailboxes) |
 ## Stack
 |  |
@@ -570,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0948-sort-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
