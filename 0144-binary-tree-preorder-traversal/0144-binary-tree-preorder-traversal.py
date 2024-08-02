@@ -4,16 +4,14 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution:
+    def __init__(self):
+        self.arr = []
+
     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        res = []
-        def dfs(currentNode, res):
-
-            if not currentNode:
-                return 
-            res.append(currentNode.val)
-            dfs(currentNode.left, res)
-            dfs(currentNode.right, res)
-
-        dfs(root, res)
-        return res
+        if root is not None:
+            self.arr.append(root.val)
+            self.preorderTraversal(root.left)
+            self.preorderTraversal(root.right)
+        return self.arr
