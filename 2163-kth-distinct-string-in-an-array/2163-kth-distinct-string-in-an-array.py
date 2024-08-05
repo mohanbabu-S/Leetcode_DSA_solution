@@ -1,9 +1,3 @@
 class Solution:
     def kthDistinct(self, arr: List[str], k: int) -> str:
-        counter = Counter(arr)
-        for v in arr:
-            if counter[v] == 1:
-                k -= 1
-                if k == 0:
-                    return v
-        return ''
+         return next((s for i, s in enumerate((s for s, c in Counter(arr).items() if c == 1), 1) if i == k), '')
