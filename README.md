@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1706-min-cost-to-connect-all-points) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Math
 |  |
 | ------- |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Two Pointers
 |  |
 | ------- |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Trie
 |  |
 | ------- |
