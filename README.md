@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0721-accounts-merge) |
 | [0792-binary-search](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0794-swim-in-rising-water) |
+| [0870-magic-squares-in-grid](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0921-spiral-matrix-iii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0768-partition-labels) |
+| [0870-magic-squares-in-grid](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0959-3sum-with-multiplicity](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0959-3sum-with-multiplicity) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0415-add-strings) |
 | [0650-2-keys-keyboard](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0650-2-keys-keyboard) |
 | [0679-24-game](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0679-24-game) |
+| [0870-magic-squares-in-grid](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0870-magic-squares-in-grid) |
 | [1362-airplane-seat-assignment-probability](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1362-airplane-seat-assignment-probability) |
 | [1571-allocate-mailboxes](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1571-allocate-mailboxes) |
 | [1585-the-kth-factor-of-n](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1585-the-kth-factor-of-n) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0794-swim-in-rising-water) |
+| [0870-magic-squares-in-grid](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1036-rotting-oranges) |
 ## Depth-First Search
