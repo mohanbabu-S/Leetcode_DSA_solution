@@ -1,29 +1,17 @@
+
 class Solution:
     def generateMatrix(self, n: int) -> List[List[int]]:
-        res = [[0 for i in range(n)] for j in range(n)]
-        left,right,up,down = 0,n-1,0,n-1
-        num=1
-        while num<=(n**2):
-            for x in range(left,right+1):
-                res[up][x] = num
-                num+=1
-            up+=1
-
-            for x in range(up,down+1):
-                res[x][right] = num
-                num+=1
-            right-=1
-
-            if left<=right:
-                for x in range(right,left-1,-1):
-                    res[down][x] = num
-                    num+=1
-                down-=1
-            
-            if up<=down:
-                for x in range(down,up-1,-1):
-                    res[x][left] = num
-                    num+=1
-                left+=1
-            
-        return res
+        d = [(0, 1), (1, 0), (0, -1), (-1, 0)]  # Direction vectors: right, down, left, up
+        ans = [[0] * n for _ in range(n)] 
+        x = y = cnt = num = 0  # Initialize starting position, direction counter, and number counter
+        while num < n * n:  
+            if ans[x][y] == 0: 
+                num += 1
+                ans[x][y] = num  
+            dx = x + d[cnt][0]
+            dy = y + d[cnt][1]
+            if 0 <= dx < n and 0 <= dy < n and ans[dx][dy] == 0:  # Check if the next position is valid
+                x, y = dx, dy  # Move to the next position
+            else:
+                cnt = (cnt + 1) % 4  # Change direction clockwise
+        return ans
