@@ -1,51 +1,42 @@
 class Solution:
-    def __init__(self):
-        self.my_grid = []
-
-    def floodfill(self, grid, r, c, color):
-        # Check for out-of-bounds or already colored cells
-        if r < 0 or r >= len(grid) or c < 0 or c >= len(grid[0]) or grid[r][c] != 0:
-            return
-        
-        # Color the cell
-        grid[r][c] = color
-        
-        # Flood fill in all four directions
-        self.floodfill(grid, r - 1, c, color)
-        self.floodfill(grid, r + 1, c, color)
-        self.floodfill(grid, r, c - 1, color)
-        self.floodfill(grid, r, c + 1, color)
-
     def regionsBySlashes(self, grid: List[str]) -> int:
-        #variables
-        n = len(grid)
-        max_color = 0
+        m,n = len(grid),len(grid[0])
+        nr,nc = 3*m,3*n
+        grid2 = [[0 for i in range(nc)] for j in range(nr)]
 
-        #convert strings to grid with -1,0
-        self.my_grid = [[0 for i in range(n*3)] for j in range(n*3)]
-        print(self.my_grid)
-        for i in range(n):
-            for j in range(n):
-                if grid[i][j]=="/":
-                    self.my_grid[i*3+0][j*3+2] = -1
-                    self.my_grid[i*3+1][j*3+1] = -1
-                    self.my_grid[i*3+2][j*3+0] = -1
-                elif grid[i][j]=="\\":
-                    self.my_grid[i*3+0][j*3+0] = -1
-                    self.my_grid[i*3+1][j*3+1] = -1
-                    self.my_grid[i*3+2][j*3+2] = -1
-                    
-        print(self.my_grid)
+        for r in range(m):
+            for c in range(n):
+                r2,c2 = r*3,c*3
+                if grid[r][c]=='/':
+                    grid2[r2][c2+2]=1
+                    grid2[r2+1][c2+1]=1
+                    grid2[r2+2][c2]=1
+                elif grid[r][c]=='\\':
+                    grid2[r2][c2]=1
+                    grid2[r2+1][c2+1]=1
+                    grid2[r2+2][c2+2]=1
+    
+        def dfs(r,c):
+            if r<0 or r==nr or c<0 or c==nc or grid2[r][c]:
+                return 
+            
+            grid2[r][c]=1
+            dfs(r+1,c)
+            dfs(r-1,c)
+            dfs(r,c+1)
+            dfs(r,c-1)
 
-        #apply flood fill with m as color till entire grid is not colored
-        for i in range(n*3):
-            for j in range(n*3):
-                if self.my_grid[i][j]==0:
-                    max_color += 1
-                    self.floodfill(self.my_grid, i, j, max_color)
-                
 
-        return max_color
+        ans = 0
+        for i in range(nr):
+            for j in range(nc):
+                if grid2[i][j]==0:
+                    dfs(i,j)
+                    ans+=1
+
+        return ans
 
         
+
+
         
