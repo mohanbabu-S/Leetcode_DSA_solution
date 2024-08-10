@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0948-sort-an-array) |
 | [0959-3sum-with-multiplicity](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0959-3sum-with-multiplicity) |
+| [0999-regions-cut-by-slashes](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1036-rotting-oranges) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1293-three-consecutive-odds) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0959-3sum-with-multiplicity](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0959-3sum-with-multiplicity) |
+| [0999-regions-cut-by-slashes](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0999-regions-cut-by-slashes) |
 | [1023-time-based-key-value-store](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1023-time-based-key-value-store) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1238-alphabet-board-path](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1238-alphabet-board-path) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0794-swim-in-rising-water) |
+| [0999-regions-cut-by-slashes](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1706-min-cost-to-connect-all-points) |
 ## Graph
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0794-swim-in-rising-water) |
 | [0870-magic-squares-in-grid](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1036-rotting-oranges) |
 ## Depth-First Search
 |  |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -356,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2171-second-minimum-time-to-reach-destination) |
