@@ -1,42 +1,19 @@
 class Solution:
     def regionsBySlashes(self, grid: List[str]) -> int:
-        m,n = len(grid),len(grid[0])
-        nr,nc = 3*m,3*n
-        grid2 = [[0 for i in range(nc)] for j in range(nr)]
-
-        for r in range(m):
-            for c in range(n):
-                r2,c2 = r*3,c*3
-                if grid[r][c]=='/':
-                    grid2[r2][c2+2]=1
-                    grid2[r2+1][c2+1]=1
-                    grid2[r2+2][c2]=1
-                elif grid[r][c]=='\\':
-                    grid2[r2][c2]=1
-                    grid2[r2+1][c2+1]=1
-                    grid2[r2+2][c2+2]=1
-    
-        def dfs(r,c):
-            if r<0 or r==nr or c<0 or c==nc or grid2[r][c]:
-                return 
-            
-            grid2[r][c]=1
-            dfs(r+1,c)
-            dfs(r-1,c)
-            dfs(r,c+1)
-            dfs(r,c-1)
-
-
-        ans = 0
-        for i in range(nr):
-            for j in range(nc):
-                if grid2[i][j]==0:
-                    dfs(i,j)
-                    ans+=1
-
-        return ans
-
-        
-
-
-        
+        def dfs(i: int, j: int) -> int:
+            if min(i, j) < 0 or max(i, j) >= len(g) or g[i][j] != 0:
+                return 0
+            g[i][j] = 1
+            return 1 + dfs(i - 1, j) + dfs(i + 1, j) + dfs(i, j - 1) + dfs(i, j + 1)
+        n, regions  = len(grid), 0
+        g = [[0] * n * 3 for i in range(n * 3)]
+        for i in range(n):
+            for j in range(n):
+                if grid[i][j] == '/':
+                    g[i * 3][j * 3 + 2] = g[i * 3 + 1][j * 3 + 1] = g[i * 3 + 2][j * 3] = 1
+                elif grid[i][j] == '\\':
+                    g[i * 3][j * 3] = g[i * 3 + 1][j * 3 + 1] = g[i * 3 + 2][j * 3 + 2] = 1
+        for i in range(n * 3):
+            for j in range(n * 3):
+                regions += 1 if dfs(i, j) > 0 else 0
+        return regions
