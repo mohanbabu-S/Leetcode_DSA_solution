@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1571-allocate-mailboxes](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1571-allocate-mailboxes) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1706-min-cost-to-connect-all-points](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1706-min-cost-to-connect-all-points) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1036-rotting-oranges) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Two Pointers
 |  |
@@ -628,4 +632,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1511-count-number-of-teams) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
