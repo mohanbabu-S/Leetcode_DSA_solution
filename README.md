@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0744-network-delay-time) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0948-sort-an-array) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0432-all-oone-data-structure](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0432-all-oone-data-structure) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1023-time-based-key-value-store) |
 | [2139-detect-squares](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/2139-detect-squares) |
 ## Linked List
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0623-add-one-row-to-tree](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0623-add-one-row-to-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0930-all-possible-full-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1207-delete-nodes-and-return-forest) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0623-add-one-row-to-tree](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0623-add-one-row-to-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0930-all-possible-full-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1207-delete-nodes-and-return-forest) |
@@ -607,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Doubly-Linked List
 |  |
@@ -636,4 +641,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/mohanbabu-S/Leetcode_DSA_solution/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
